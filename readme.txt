@@ -7,3 +7,5 @@ git trades changes
 Createing a new branch is quick and simple.
 分支管理策略03;
 
+stash测试；
+
